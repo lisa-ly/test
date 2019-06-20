@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 750px;
+    height: 1000px;
+    background-color:pink;
+    margin: 0 auto;
+}
+header{
+    height: 367px;
+    background-color: #eee;
+}
+.header-top{
+    height: 185px;
+    background: url(../images/banner.jpg)
+}
+
+.tt{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid #eee;
+
+}
